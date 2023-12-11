@@ -1,4 +1,3 @@
-require 'zeitwerk'
 # frozen_string_literal: true
 
 module Unleash
